@@ -1,0 +1,13 @@
+/target
+.DS_Store
+/alarm/node_modules
+/alarm/build
+/alarm/.svelte-kit
+/alarm/package
+/alarm/.env
+/alarm/.env.*
+/alarm/!.env.example
+/alarm/vite.config.js.timestamp-*
+/alarm/vite.config.ts.timestamp-*
+.env
+

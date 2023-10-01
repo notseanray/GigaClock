@@ -4,5 +4,6 @@
 </script>
 
 <h1>Sean's Alarm Clock</h1>
-<button on:click={()}>
+<button on:click={() => goto(getGoogleUrl("/profile"))}>
+Login
 </button>
